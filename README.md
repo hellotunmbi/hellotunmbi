@@ -5,8 +5,8 @@ My name is Olutunmbi Banto. I'm a software engineer and UX Designer. I am profic
 
 - 📫 How to reach me:
 
-  **Email:** hellotunmbi[at]gmail[dot]com
-  **DM on Twitter**: @hellotunmbi
+  - **Email:** hellotunmbi[at]gmail[dot]com
+  - **DM on Twitter**: @hellotunmbi
 
 - 😄 Pronouns: He/Him/His
 
