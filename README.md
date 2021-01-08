@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Olutunmbi Banto. I'm a software engineer and UX Designer. I am proficient in React, Angular, NodeJS and Ionic. I also work with Laravel and sometimes React Native. In my free time, I publish articles on [https://medium.com/@hellotunmbi](Medium)
+My name is Olutunmbi Banto. I'm a software engineer and UX Designer. I am proficient in React, Angular, NodeJS and Ionic. I also work with Laravel and sometimes React Native. In my free time, I publish articles on (https://medium.com/@hellotunmbi)[Medium]
 
 - 🌱 I’m currently learning Vue and Cloud computing. And also expanding on my UX skills
 
