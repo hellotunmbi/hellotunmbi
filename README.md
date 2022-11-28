@@ -2,8 +2,8 @@
 My name is Olutunmbi Banto. I'm a Software Engineer. I am proficient in React, Angular, NodeJS and Angular/Ionic. I also work with Laravel and sometimes React Native. I publish technical articles on [Medium](https://hellotunmbi.medium.com) and Hashnode
 
 - 🌱 I’m currently 
+  - A certified AWS Cloud Development with ALX
   - Learning to become an AWS Solutions Architect. 
-  - Taking a scholarship program on AWS Cloud Development with ALX
   - Improving on my UI/UX skills
 
 - 😄 Pronouns: 
